@@ -1,0 +1,579 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Newsletter",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Yanone Kaffeesatz",
+        "subtitleFont": "Yanone Kaffeesatz",
+        "textFont": "Yanone Kaffeesatz",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 117,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-mandala-128x131.png",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-84323355-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-84323355-2');\r\n</script>\r\n",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "60px"
+            },
+            "SMALL": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "Athens Yoga Newsletter<br>",
+          "meta": "<br>Fall/Winter Issue 2018"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/window-pic-2000x1429.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Greetings Athens Yoga Family!",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-35",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#77bc33",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "32px",
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "UL": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#c3e485"
+          },
+          "text": "<p><b>We are welcoming our 3rd year here in Athens! &nbsp;Thank you for all your support to help us grow and serve the&nbsp;</b></p><p><b>community with the gift of yoga. &nbsp;We appreciate all of you!</b></p><p><b><br></b></p><p><b>In this issue we want to bring your attention to everything coming up this Fall. Always check our Facebook page and keep an eye on your email for any pop up events through the season as well, we always try to bring fun and exciting workshops and guests through the studio. Check it out!</b></p><p><br></p><p>~~~Tabel of Contents~~~</p><p><br></p><p><a href=\"index.html#header3-34\">FEATURED TEACHERS</a></p><p><a href=\"index.html#header3-20\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">DONATION CLASS FOR CHILD ADVOCACY CENTER  10/6</a><br></p><p><a href=\"index.html#header3-38\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">OUR PACKED OCTOBER SCHEDULE</a><br></p><p><a href=\"index.html#content1-22\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">MANTRA MEDITATION AND PRANAYAMA WORKSHOP 10/13</a><br></p><p><a href=\"index.html#content1-22\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">LOTUS PALM THAI MASSAGE WORKSHOP 11/13</a><br></p><p><a href=\"index.html#header3-1t\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">MOON LODGE (RED TENT GATHERING) OCTOBER 10/28</a><br></p><p><a href=\"index.html#header3-1x\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">NOVEMBER CACAO CEREMONY 11/17</a><br></p><p><a href=\"index.html#content1-22\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">ARCHETYPES WORKSHOP 12/8</a><br></p><p><a href=\"index.html#content1-23\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">SUMMER YOGA TRAINING 200 HR PROGRAM 2019</a><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-34",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#77bc33",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/lonnie-1-2000x1997.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "Lonnie Galt-Theis,  RYT-200, Radiant Child Yoga Teacher<br><br>Kids Yoga and Chakra Flow with Lonnie<br>&nbsp;<br><span style=\"font-size: 3rem; line-height: 1.1;\">Saturdays &nbsp;9:30am &nbsp;Kid and Parent Yoga 3-8yrs</span><br>A fun imaginative class with stories, games, guided relaxation and meditation.&nbsp;<br><br>Saturdays &nbsp;11am &nbsp;CHAKRA FLOW to energize and awaken!",
+          "caption": "S"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-33",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgColor": "#77bc33",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-32",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/djfornewsletter-2000x2000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">DJ FULLER,  RYT-500, TRE (Trauma Release) Provider</span><div><span style=\"font-weight: normal;\">Creator of SIIF System to find ultimate freedom in the body!</span></div><div><span style=\"font-weight: normal;\"><br></span>Core Conceps Workshop with Dj at Athens Yoga!<div>Mondays 7-8pm !<br>&nbsp;<br>This class is focused on the Core set up like mini workshop where you listen to foundation of yoga concepts and instruction then apply them to yoga poses. You will learn core concepts of inversions, hand balancing, arm balancing, and yoga tips and tricks. IT'S WORK but it's FUN!<div>All Levels Welcome!<br><br><br></div></div></div>",
+          "caption": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#77bc33",
+            "showMeta": true
+          },
+          "title": "Childrens Advocacy Center Donation Class<br> by our newest YTT-200 teacher Kristin&nbsp;<br>A Gentle and Restorative Yoga Practice<br>10/6, 4-5 pm at Athens Yoga",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "15px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "content1-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#90a878"
+          },
+          "text": "<p><b>~~~~~~~~~~~~~~~~~~WORKSHOPS~~~~~~~~~~~~~~~~~~~</b></p><p><br></p><p><br></p><p><b>Mantra Meditation &amp; Prana{y}ama Workshop 10/13/18</b></p><p>In this workshop Jen will teach the pronunciation and meaning of 3 special yoga Mantras, the Gayatri Mantra, Maha Mrityunjaya, and a Peace Mantra focused on discernment, then we recite them together in Sanskrit, in a traditional counting fashion.&nbsp;</p><p>Then we will learn some potent breathing techniques for anxiety, stress, lung health, and mental clarity. Meditating between each technique to feel the effects on the mind and body. Silent meditation will take place in between mantra and breathing practice.</p><p><span style=\"line-height: 1.5;\">Finishing the class with 2 &nbsp;Restorative Poses to soak in all the magic of the sound and breath work.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to prerigister</b>. Drop in's welcome too!</span></p><p><span style=\"line-height: 1.5;\">The class is 90 min and the investment is $15, you will take home a booklet of the practices taught.<br></span></p><p><br></p><p><b>Lotus Palm Thai Massage Workshop 11/ 10/ 18</b></p><p>In this workshop we will learn the fun techniques of Lotus Palm Thai Yoga Massage. By giving and receiving massage in specific locations and switching back and forth from giver to recipient, we will move slowly and talk thouroughly through the techniques of a 90 minute massage.&nbsp;</p><p>By working in a loving compassionate way, this becomes a dynamic practice for physical well being and spiritual energy.</p><p><span style=\"line-height: 1.5;\">Lotus Palm bodywork emphasizes centering, transition, balance, safety, and using the least amount of effort to achieve maximum results.</span><br></p><p><span style=\"line-height: 1.5;\">Join us and learn some techniques before the holidays, Massage is such a gift!</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to pay in advance</b>. Space is limited (12 total)</span></p><p><span style=\"line-height: 1.5;\">Investment: $30 - No partner required! You will take home the massage sequence taught.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Archetypes Workshop 12/ 8/ 18</b></span></p><p><span style=\"line-height: 1.5;\">This workshop will help develop or deepen your understanding of diverse energies you hold within and how to use them to explore your emotional and physical world. You will be introduced to shadow work and will discuss how virtues can guide your growth process.</span></p><p><span style=\"line-height: 1.5;\">This is a 5 hour workshop, material provided. Led by Donald Nicely, RYT 200, Virtues First Project facillitator.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b><i>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to pay</i></b> <b>in advance</b>. Space is limited (12 total)</span></p><p><span style=\"line-height: 1.5;\">Investment is $50 for the day.<br>&nbsp;<br></span><span style=\"line-height: 1.5;\"><br></span></p><p><b><br></b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#2b0680",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "60px"
+            },
+            "SMALL": {
+              "font-size": "30px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1t",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "&nbsp;Monthly Moon Lodge at Athens Yoga<br>\"red tent gathering\"<br>October 28, 7-9",
+          "meta": "A moon lodge is simply a gathering of women (or anyone identifying as) that provides community, support and space. This is a timeless tradition observed by ancient cultures which serves as a regular forum for empowering women's sense of selfhood. In moon lodge, women's deepest secrets can be shared, so no woman has to carry her burdens alone.<br><br>Come gather and share tea, stories and space.<br><br>Bring your favorite mug and a blanket.<br><br>Event listed on our FB page, feel free to send us a message with any questions!"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "FOR THE LOVE OF CHOCOLATE!<br>~~~~~~~~~~Traditional CACAO Ceremony~~~~~~~~~~<br><br>11/17/18 ~~~~~~~~4pm-7pm<br><br><div>What is a cacao ceremony?</div><div><br></div><div>A ceremonial dose of 100% pure ceremonial grade cacao (1.5 oz) is served in the form of a warm drink. This heart opening elixir can facilitate a pleasant, perhaps blissful state where participants can journey deeper into personal and collective healing. Ceremonies may include sound healing, meditation, drumming, song, conscious art making, connection, sharing, dance, journeying and asana. This ancient medicine helps connect participants with their inner guide while it may increase clarity, focus, creativity and an overall sense of wellbeing.&nbsp;</div><div><br></div><div><span style=\"color: inherit; line-height: 1.1;\">Testimonial - One of the people who has attended every single ceremony we have hosted in the Seattle/Tacoma, WA area said the following;</span><br></div><div><br></div><div><span style=\"color: inherit; line-height: 1.1;\">\"Michelle and Michael create a transformative, visionary, and unique experience that deepens the relationship to the self, while strengthening bonds among the community and connection with nature. They curate a multi-faceted, dynamic experience that engages the senses through plant spirit medicine, music, dance, visualization, and cultivating personal intentions. A natural environment is created that effectively allows people to release and heal. The result is a richer experience of life through meaningful connections within, to each other, earth, and cosmos. A leading-edge intelligence emerges from these ceremonies, whereby people are expressing the parts of themselves as a greater whole. Peace, passion, and clarity glows from all who leave this brief encounter. People are hungry to experience deeper meaning and make sense of a fast, technological, and politically confusing world. While no answers are given, a space is created for people to find deeper peace, resolve, and clarity from within. This is the deepest power a person and community can experience from the inside. These gatherings create the space for healing, empowerment, and thrival, across all races, beliefs, and backgrounds.”</span></div><br><div>Activities include : Welcoming/Introductions, Explanation of Cacao, Cacao drinking, Learn traditional Cacao ceremony songs, Sound Bath with Quartz Crystal Singing Bowls, Share stories by theme, Guided Meditation, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color: inherit; line-height: 1.1;\">Journeying, &nbsp;Creating Art.</span></div>&nbsp; &nbsp;<br><div><span style=\"color: inherit; line-height: 1.1;\"><br></span></div><div><span style=\"color: inherit; line-height: 1.1;\">Investment in the experience: </span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">&nbsp;$35 up til NOV 1</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">$40 after NOV 1</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">Dropping in day of workshop is welcome, but early registration is encouraged.</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">&nbsp;Go Here to sign up : &nbsp;https://squareup.com/store/AthensYoga/<br></span><br></div>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-23",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><br></p><p><i><b>WE ARE A YOGA ALLIANCE REGISTERED YOGA SCHOOL</b></i></p><p><i><b> AND WE OFFER A TRAINING PROGRAM EVERY SUMMER!</b></i></p><p><br></p><p>2019 HUMBLE YOGA SCHOOL: 200+HRS YOGA TEACHER TRAINING PROGRAM&nbsp;</p><p><br></p><p>WANT TO BECOME A YOGA TEACHER?&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Program Starts 3rd weekend in April and goes every other weekend for 10 weekends.&nbsp;</span><br></p><p>Friday evenings lecture and class, Saturdays and Sundays all day</p><p>7 guest teachers! Total investment: $2200 in full, $2700 in payments, $200 deposit with application.</p><p><br></p><p>Humble Yoga School YTT Program Core Values</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">---To provide you with a well rounded training program &nbsp;that makes you</span><br></p><p>&nbsp;feel confident in life and in teaching. &nbsp;</p><p>---To create a safe open environment so you can learn from one another and listen to ideas&nbsp;</p><p>without judgment or expectations.&nbsp;</p><p>---To give you the right tools to enrich your life and practice, making space for you</p><p>to grow your unique style of teaching, and help you understand why you want to teach.</p><p>---To be a support system for &nbsp;students, and provide the opportunity</p><p>for personal growth.&nbsp;</p><p><br></p><p>\"I am very honored and grateful to share this journey with you, and help you tap into the innate gifts that make you and your teaching unique.  Yoga is more than asana, its learning to wholeheartedly love yourself, and I hope that after this training you feel like you can carry yoga into all aspects of your life, living with a sense of ease and confidence that you are doing exactly what you're are supposed to do. &nbsp;Namaste friend\" ~ Jen Mainelli</p><p>“The greatest trap in life is not success, but self rejection”&nbsp;</p><p>Henri Nouwen.</p><p><br></p><p>Stay tuned to our Facebook page for informational sessions coming up early Spring.</p><p>or feel free to contact us at athensyoganews@gmail.com anytime with questions!</p><p>.&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SMALL": {
+              "color": "#553982",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#c1c1c1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "\"I recently graduated from Humble Yoga Teacher Training with Jenn and cannot say enough<br>positive things about this training. I had looked at several training opportunities, but the<br>philosophy, curriculum, workshops, and Jen’s personality and teaching style made me resolutely<br>choose Humble Yoga School. I am ever so grateful that I did! The depth of understanding and the holistic<br>nature of the training are more than I could have hoped for.\"<br>-Kristin Dixon Chamberlain YTT grad 2018"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f28281"
+          },
+          "text": "<p><b>DID YOU KNOW WE HAVE&nbsp;<span style=\"line-height: 1.5;\">MASSAGE &nbsp;at ATHENS YOGA ?&nbsp;</span></b></p><p><b>YES! We offer Thai Yoga Massage. &nbsp;email athensyoganews@gmail.com, and schedule one today!</b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-13",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2000.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Are you a teacher and want to join the Athens Yoga Family?</p><p>We provide an opportunity for new teachers to lease space, thrive and grow their teaching in a welcoming atmosphere!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-38",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#77bc33",
+            "showMeta": true
+          },
+          "title": "Just a reminder all STUDIO classes are $10 drop in ONLY<br>No preregistration is required<br>&amp; we have mats to borrow in case you need, bringing your own is highly encouraged.<br>Talk to your teacher about their 5 and 10 class passes!<br>5class for $40 and 10class for $80<br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#25909e",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/newoctoberschay2018-2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "Yoga can be a great, holistic way to take care of yourself, &nbsp; join us today for class, &nbsp;and start feeling awesome! &nbsp;We got your back. Literaly.&nbsp;<br>Thank you Athens community for all your support, we love you!",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1029.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Address</p><p>77 1/2 E State St, Athens, OH 45701</p><p><br></p><p>Contacts</p><p>Email: athensyoganews@gmail.com</p><p>Phone: 740-232-yoga(9642)</p><p><br></p><p>Web</p><p>aystudio.org</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    }
+  }
+}
