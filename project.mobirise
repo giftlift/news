@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 117,
+    "uniqCompNum": 121,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -67,8 +67,8 @@
             "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "Athens Yoga Newsletter<br>",
-          "meta": "<br>Fall/Winter Issue 2018"
+          "title": "<span style=\"color: inherit; line-height: 1.1;\">Athens Yoga</span><br><span style=\"color: inherit; line-height: 1.1;\">February &nbsp;Newsletter<br></span><br>",
+          "meta": "Winter Issue 2019<br>"
         },
         {
           "_styles": {
@@ -141,8 +141,8 @@
             "P": {
               "font-size": "32px",
               "text-align": "center",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             },
             "UL": {
               "text-align": "center"
@@ -151,30 +151,10 @@
           "_anchor": "content1-q",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#c3e485"
           },
-          "text": "<p><b>We are welcoming our 3rd year here in Athens! &nbsp;Thank you for all your support to help us grow and serve the&nbsp;</b></p><p><b>community with the gift of yoga. &nbsp;We appreciate all of you!</b></p><p><b><br></b></p><p><b>In this issue we want to bring your attention to everything coming up this Fall. Always check our Facebook page and keep an eye on your email for any pop up events through the season as well, we always try to bring fun and exciting workshops and guests through the studio. Check it out!</b></p><p><br></p><p>~~~Tabel of Contents~~~</p><p><br></p><p><a href=\"index.html#header3-34\">FEATURED TEACHERS</a></p><p><a href=\"index.html#header3-20\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">DONATION CLASS FOR CHILD ADVOCACY CENTER  10/6</a><br></p><p><a href=\"index.html#header3-38\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">OUR PACKED OCTOBER SCHEDULE</a><br></p><p><a href=\"index.html#content1-22\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">MANTRA MEDITATION AND PRANAYAMA WORKSHOP 10/13</a><br></p><p><a href=\"index.html#content1-22\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">LOTUS PALM THAI MASSAGE WORKSHOP 11/13</a><br></p><p><a href=\"index.html#header3-1t\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">MOON LODGE (RED TENT GATHERING) OCTOBER 10/28</a><br></p><p><a href=\"index.html#header3-1x\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">NOVEMBER CACAO CEREMONY 11/17</a><br></p><p><a href=\"index.html#content1-22\" style=\"line-height: 1.5; background-color: rgb(195, 228, 133);\">ARCHETYPES WORKSHOP 12/8</a><br></p><p><a href=\"index.html#content1-23\" style=\"background-color: rgb(195, 228, 133); line-height: 1.5;\">SUMMER YOGA TRAINING 200 HR PROGRAM 2019</a><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-34",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#77bc33",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
+          "text": "<p><b>As always, thank you for all your support to help us grow our co-op and serve the&nbsp;</b><b style=\"line-height: 1.5;\">community with the gift of yoga. &nbsp;We appreciate all of you!</b></p><p><b><br></b></p><p><b>In this issue we want to bring your attention to the types of classes and offerings we have on the schedule as we start off the new year. Remind you about our Summer Yoga Training Program &amp; info session, Pre/Postnatal workshop, Energy &amp; Inversions class, our Monthly Moon Lodge &amp; Spring workshops.</b></p><p><b>love,&nbsp;</b></p><p><b>AY-tribe&nbsp;</b></p><p><br></p>"
         },
         {
           "_styles": {
@@ -182,20 +162,25 @@
               "color": "#fff"
             },
             "P": {
-              "font-size": "30px"
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "font-size": "20px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-25",
+          "_anchor": "content5-39",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/lonnie-1-2000x1997.jpg",
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -206,30 +191,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": true,
-            "showCaption": false
+            "showCaption": true
           },
-          "title": "Lonnie Galt-Theis,  RYT-200, Radiant Child Yoga Teacher<br><br>Kids Yoga and Chakra Flow with Lonnie<br>&nbsp;<br><span style=\"font-size: 3rem; line-height: 1.1;\">Saturdays &nbsp;9:30am &nbsp;Kid and Parent Yoga 3-8yrs</span><br>A fun imaginative class with stories, games, guided relaxation and meditation.&nbsp;<br><br>Saturdays &nbsp;11am &nbsp;CHAKRA FLOW to energize and awaken!",
-          "caption": "S"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-33",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#77bc33",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
+          "title": "CLASS OFFERINGS",
+          "caption": "<p>FOR BEGINNERS/ SLOWER PACED: WARM SLOW FLOW, &nbsp;SLOW FLOW&nbsp;<span style=\"line-height: 1.5;\">, GENTLE YOGA , GENTLE &amp; RESTORATIVE, &nbsp;GENTLE FLOW, &nbsp;YOGA FORM, &nbsp;YOGA FOR STRESS RELIEF, ALL LEVELS YOGA, MOVEMENT AND MEDITATION, SOFTEN &amp; STRETCH, MELLOW MOVEMENT</span></p><p><span style=\"line-height: 1.5;\">MODERATE INTENSITY/ MEDIUM PACED: ALIGN &amp; FLOW, &nbsp;HOT FLOW 2, HOT SLOW FLOW, MORNING VINYASA, PRANA ASANA &amp; MEDITATION (SLOW/MEDIUM)</span></p><p>CHALLEGING INTENSITY/ FASTER PACED: EXPLORE YOGA, POWER FUSION, VINYASA, POWER FLOW</p><p>Additionaly Erin hosts a Meditative Yin Class once or twice per month on Tues 8:15pm, and offers her Wednesday 6pm class as a Musical Meditation (live music) and Gentle Flow once per month. &nbsp;</p><p>And Kristin will offer a Saturday donation class for charity every month, keep an eye on the calendar this date will change monthly.</p><p>CHECK OUT OUR FULL CLASS SCHEDULE AT AYSTUDIO.ORG</p><p><br></p>"
         },
         {
           "_styles": {
@@ -237,20 +202,20 @@
               "color": "#fff"
             },
             "P": {
-              "font-size": "30px"
+              "font-size": "18px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-32",
+          "_anchor": "content5-3b",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/djfornewsletter-2000x2000.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -258,33 +223,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "showTitle": true,
-            "showCaption": false
+            "showCaption": true
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">DJ FULLER,  RYT-500, TRE (Trauma Release) Provider</span><div><span style=\"font-weight: normal;\">Creator of SIIF System to find ultimate freedom in the body!</span></div><div><span style=\"font-weight: normal;\"><br></span>Core Conceps Workshop with Dj at Athens Yoga!<div>Mondays 7-8pm !<br>&nbsp;<br>This class is focused on the Core set up like mini workshop where you listen to foundation of yoga concepts and instruction then apply them to yoga poses. You will learn core concepts of inversions, hand balancing, arm balancing, and yoga tips and tricks. IT'S WORK but it's FUN!<div>All Levels Welcome!<br><br><br></div></div></div>",
-          "caption": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-20",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#77bc33",
-            "showMeta": true
-          },
-          "title": "Childrens Advocacy Center Donation Class<br> by our newest YTT-200 teacher Kristin&nbsp;<br>A Gentle and Restorative Yoga Practice<br>10/6, 4-5 pm at Athens Yoga",
-          "meta": ""
+          "title": "Prenatal/Postpartum Yoga<br>next workshop TBA",
+          "caption": "<p><br></p><p>This workshop,and classes in the future will be &nbsp;led by Ahley Wines, and &nbsp; is for prenatal and postpartum mothers. Created to be a grounding place for mothers to gather and collect the mind &amp; body through meditation,discussion, and yoga.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">We will discuss the transition from pregnancy to postnatal and effective ways to stay grounded into our yoga practice. We will explore how we can show up for ourselves in time of rest and nourishment on and off the Mat. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Motherhood is hard and by honoring that, we can honor ourselves through rest and cultivation amongst other wombyn.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">I believe there is no “time” limit on postpartum, if this calls to you please Come!</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">The mother in me, honors the mother in you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">No yoga experience necessary. &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Please bring notebook and pen •••&nbsp;</span></p><p>Email for more info // &nbsp; &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">wildrootsyogaa@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; If you cannot find babysitting no worries. &nbsp; K</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ids are welcome to attend.</span></p>"
         },
         {
           "_tags": [
@@ -293,19 +238,104 @@
           "_name": "content1",
           "_styles": {
             "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "text-align": "center",
-              "font-size": "15px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-size": "25px"
             }
           },
-          "_anchor": "content1-22",
+          "_anchor": "content1-23",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#90a878"
+            "bgColor": "#efefef"
           },
-          "text": "<p><b>~~~~~~~~~~~~~~~~~~WORKSHOPS~~~~~~~~~~~~~~~~~~~</b></p><p><br></p><p><br></p><p><b>Mantra Meditation &amp; Prana{y}ama Workshop 10/13/18</b></p><p>In this workshop Jen will teach the pronunciation and meaning of 3 special yoga Mantras, the Gayatri Mantra, Maha Mrityunjaya, and a Peace Mantra focused on discernment, then we recite them together in Sanskrit, in a traditional counting fashion.&nbsp;</p><p>Then we will learn some potent breathing techniques for anxiety, stress, lung health, and mental clarity. Meditating between each technique to feel the effects on the mind and body. Silent meditation will take place in between mantra and breathing practice.</p><p><span style=\"line-height: 1.5;\">Finishing the class with 2 &nbsp;Restorative Poses to soak in all the magic of the sound and breath work.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to prerigister</b>. Drop in's welcome too!</span></p><p><span style=\"line-height: 1.5;\">The class is 90 min and the investment is $15, you will take home a booklet of the practices taught.<br></span></p><p><br></p><p><b>Lotus Palm Thai Massage Workshop 11/ 10/ 18</b></p><p>In this workshop we will learn the fun techniques of Lotus Palm Thai Yoga Massage. By giving and receiving massage in specific locations and switching back and forth from giver to recipient, we will move slowly and talk thouroughly through the techniques of a 90 minute massage.&nbsp;</p><p>By working in a loving compassionate way, this becomes a dynamic practice for physical well being and spiritual energy.</p><p><span style=\"line-height: 1.5;\">Lotus Palm bodywork emphasizes centering, transition, balance, safety, and using the least amount of effort to achieve maximum results.</span><br></p><p><span style=\"line-height: 1.5;\">Join us and learn some techniques before the holidays, Massage is such a gift!</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to pay in advance</b>. Space is limited (12 total)</span></p><p><span style=\"line-height: 1.5;\">Investment: $30 - No partner required! You will take home the massage sequence taught.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b>Archetypes Workshop 12/ 8/ 18</b></span></p><p><span style=\"line-height: 1.5;\">This workshop will help develop or deepen your understanding of diverse energies you hold within and how to use them to explore your emotional and physical world. You will be introduced to shadow work and will discuss how virtues can guide your growth process.</span></p><p><span style=\"line-height: 1.5;\">This is a 5 hour workshop, material provided. Led by Donald Nicely, RYT 200, Virtues First Project facillitator.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\"><b><i>Please <a href=\"https://squareup.com/store/AthensYoga/\" target=\"_blank\">click here</a> to pay</i></b> <b>in advance</b>. Space is limited (12 total)</span></p><p><span style=\"line-height: 1.5;\">Investment is $50 for the day.<br>&nbsp;<br></span><span style=\"line-height: 1.5;\"><br></span></p><p><b><br></b></p>"
+          "text": "<p><br></p><p><i><b>WE ARE A YOGA ALLIANCE REGISTERED</b></i></p><p><i><b> YOGA SCHOOL</b></i></p><p><i><b> AND WE OFFER A TRAINING PROGRAM </b></i></p><p><i><b>EVERY SUMMER!</b></i></p><p><br></p><p>2019 HUMBLE YOGA SCHOOL: 200+HRS YOGA TEACHER TRAINING PROGRAM&nbsp;</p><p><br></p><p>WANT TO BECOME A YOGA TEACHER?</p><p>1 year experience reccomended</p><p>Check out the details below!&nbsp;</p><p><br></p><p>YOUR INVESTMENT:</p><p>&nbsp;$2500 PAID IN FULL/ $2700 PAID IN PAYMENTS</p><p>&amp; prepare to PURCHASE 10 studio CLASSES THROUGHOUT TRAINING. *About 45 non contact hours in included in training)</p><p><br></p><p>DATES: 10 WEEKENDS + a make up day</p><p>APRIL 13, 14</p><p>MAY 10-12, 24-26</p><p>JUNE 14-16, 28-30</p><p>JULY 12-14, 26-28</p><p>AUGUST 9-11,23-25</p><p>SEPTEMBER 13-14, 15TH GRADUATION</p><p><br></p><p>HOURS:</p><p>FRIDAYS 5:15-9PM</p><p>SAT/SUN: 8:30-12:30/ BREAK/ 2:30-8:30</p><p> (short dinner break, bring food/snacks)</p><p><br></p><p>BOOK LIST: (ADDITIONAL INVESTMENT @$80)</p><p>**can buy used or new</p><p>The Secret Power of Yoga: A Womans Guide to the Heart and Spirit of the Yoga Sutras</p><p> by Nichala Joy Devi</p><p>Ayurveda and the Mind by David Frawley</p><p>Heart of Yoga by Desikachar</p><p>Key Muscles of Yoga by Ray Long</p><p>Key Poses of Hatha Yoga by Ray Long</p><p>Subtle Body, Cyndi Dale</p><p>Baghavad Gita&nbsp;</p><p>Light on Yoga Sutras, BKS Iyengar</p><p><br></p><p>Humble Yoga School YTT Program Core Values</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">---To provide you with a well rounded training program &nbsp;that makes you</span><br></p><p>&nbsp;feel confident in life and in teaching. &nbsp;</p><p>---To create a safe open environment so you can learn from one another and listen to ideas&nbsp;<span style=\"line-height: 1.5;\">without</span></p><p><span style=\"line-height: 1.5;\"> judgment or expectations.&nbsp;</span></p><p>---To give you the right tools to enrich your life and practice, making space for you&nbsp;<span style=\"line-height: 1.5;\">to grow your unique style of teaching, and help you understand why you want to teach.</span></p><p>---To be a support system for &nbsp;students, and provide the opportunity<span style=\"line-height: 1.5;\">for personal growth.&nbsp;</span></p><p><br></p><p>\"I am very honored and grateful to share this journey with you, and help you tap into the innate gifts that make you and your teaching unique.  Yoga is more than asana, its learning to wholeheartedly love yourself, and I hope that after this training you feel like you can carry yoga into all aspects of your life, living with a sense of ease and confidence that you are doing exactly what you're are supposed to do. &nbsp;</p><p>Namaste friend\" ~ Jen Mainelli</p><p>“The greatest trap in life is not success, </p><p>but self rejection”&nbsp;</p><p>Henri Nouwen.</p><p><br></p><p>Stay tuned to our Facebook page for informational sessions coming up late February,</p><p>or feel free to contact us at athensyoganews@gmail.com anytime with questions!</p><p>.&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#7e9b9f",
+            "showMeta": true
+          },
+          "title": "2019<br> YOGA TRAINING INFORMATION SESSION&nbsp;<br>COMING UP SOON!<br>FEBRUARY 21ST &nbsp;5-6PM&nbsp;<br><br>COME AND LEARN ABOUT THE DETAILS OF THE PROGRAM<br>WORKSHOPS AND GUEST TEACHERS, TO GET A GENERAL IDEA OF WHAT TO<br>EXPECT AND OF COURSE Q &amp; A TO BE SURE YOUR WELL INFORMED.<br>IF YOUR NOT SURE YOU WANT TO SIGN UP, STILL FEEL FREE TO COME AND LISTEN!<br><br>IF YOU ARE DEFINITLY SURE, YOU MAY FILL OUT APPLICATION AND SUBMIT IT WITH YOUR $200 DEPOSIT<br>FINAL PAYMENT DEADLINE IS THE WEEK TRAINING STARTS&nbsp;<br>&amp;ALL PAYMENT PLANS SHALL BE SET UP BY THEN",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SMALL": {
+              "color": "#553982",
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#c1c1c1",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "\"I recently graduated from Humble Yoga Teacher Training with Jenn and cannot say enough<br>positive things about this training. I had looked at several training opportunities, but the<br>philosophy, curriculum, workshops, and Jen’s personality<br> and teaching style made me resolutely&nbsp;choose Humble Yoga School.<br> I am ever so grateful that I did! The depth of understanding and the holistic<br>nature of the training are more than I could have hoped for.\"<br>-Kristin Dixon Chamberlain YTT grad 2018"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/erin-inversion-2000x3000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Energy and Inversions: &nbsp;4 week Series&nbsp;<br>w/Erin &nbsp;Mondays at 7pm&nbsp;",
+          "caption": "<p>This month Erin is offering a 4 week series of yoga where you will explore the benefits of practicing inversions and how they affect energy within the body.  Drop in to any of these classes to tap into/ increase your energy and learn about being upside down!&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">*All 4 classes in a package ::  $35* &nbsp; &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">** You DO NOT have to attend all      classes in the series.** &nbsp; &nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Drop-ins ($10/class) are encouraged!</span></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>"
         },
         {
           "_styles": {
@@ -335,81 +365,40 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "&nbsp;Monthly Moon Lodge at Athens Yoga<br>\"red tent gathering\"<br>October 28, 7-9",
-          "meta": "A moon lodge is simply a gathering of women (or anyone identifying as) that provides community, support and space. This is a timeless tradition observed by ancient cultures which serves as a regular forum for empowering women's sense of selfhood. In moon lodge, women's deepest secrets can be shared, so no woman has to carry her burdens alone.<br><br>Come gather and share tea, stories and space.<br><br>Bring your favorite mug and a blanket.<br><br>Event listed on our FB page, feel free to send us a message with any questions!"
+          "title": "&nbsp;Monthly Moon Lodge at Athens Yoga<br>\"red tent gathering\"<br>One Sunday per month&nbsp;<br>7-9PM<br><br>",
+          "meta": "A moon lodge is simply a gathering of women and non-bianry folks that provides community, support and space. This is a timeless tradition observed by ancient cultures which serves as a regular forum for empowering women's sense of selfhood. In moon lodge, women's deepest secrets can be shared, so no woman has to carry her burdens alone.<br><br>Come gather and share tea, stories and space.<br><br>Bring your favorite mug and a blanket.<br><br>Event listed on our FB page, feel free to send us a message with any questions!"
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "25px"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1x",
+          "_name": "content5",
+          "_anchor": "content5-3a",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgColor": "#7e9b9f",
-            "showMeta": true
-          },
-          "title": "FOR THE LOVE OF CHOCOLATE!<br>~~~~~~~~~~Traditional CACAO Ceremony~~~~~~~~~~<br><br>11/17/18 ~~~~~~~~4pm-7pm<br><br><div>What is a cacao ceremony?</div><div><br></div><div>A ceremonial dose of 100% pure ceremonial grade cacao (1.5 oz) is served in the form of a warm drink. This heart opening elixir can facilitate a pleasant, perhaps blissful state where participants can journey deeper into personal and collective healing. Ceremonies may include sound healing, meditation, drumming, song, conscious art making, connection, sharing, dance, journeying and asana. This ancient medicine helps connect participants with their inner guide while it may increase clarity, focus, creativity and an overall sense of wellbeing.&nbsp;</div><div><br></div><div><span style=\"color: inherit; line-height: 1.1;\">Testimonial - One of the people who has attended every single ceremony we have hosted in the Seattle/Tacoma, WA area said the following;</span><br></div><div><br></div><div><span style=\"color: inherit; line-height: 1.1;\">\"Michelle and Michael create a transformative, visionary, and unique experience that deepens the relationship to the self, while strengthening bonds among the community and connection with nature. They curate a multi-faceted, dynamic experience that engages the senses through plant spirit medicine, music, dance, visualization, and cultivating personal intentions. A natural environment is created that effectively allows people to release and heal. The result is a richer experience of life through meaningful connections within, to each other, earth, and cosmos. A leading-edge intelligence emerges from these ceremonies, whereby people are expressing the parts of themselves as a greater whole. Peace, passion, and clarity glows from all who leave this brief encounter. People are hungry to experience deeper meaning and make sense of a fast, technological, and politically confusing world. While no answers are given, a space is created for people to find deeper peace, resolve, and clarity from within. This is the deepest power a person and community can experience from the inside. These gatherings create the space for healing, empowerment, and thrival, across all races, beliefs, and backgrounds.”</span></div><br><div>Activities include : Welcoming/Introductions, Explanation of Cacao, Cacao drinking, Learn traditional Cacao ceremony songs, Sound Bath with Quartz Crystal Singing Bowls, Share stories by theme, Guided Meditation, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"color: inherit; line-height: 1.1;\">Journeying, &nbsp;Creating Art.</span></div>&nbsp; &nbsp;<br><div><span style=\"color: inherit; line-height: 1.1;\"><br></span></div><div><span style=\"color: inherit; line-height: 1.1;\">Investment in the experience: </span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">&nbsp;$35 up til NOV 1</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">$40 after NOV 1</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">Dropping in day of workshop is welcome, but early registration is encouraged.</span></div><br><div><span style=\"color: inherit; line-height: 1.1;\">&nbsp;Go Here to sign up : &nbsp;https://squareup.com/store/AthensYoga/<br></span><br></div>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-23",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><br></p><p><i><b>WE ARE A YOGA ALLIANCE REGISTERED YOGA SCHOOL</b></i></p><p><i><b> AND WE OFFER A TRAINING PROGRAM EVERY SUMMER!</b></i></p><p><br></p><p>2019 HUMBLE YOGA SCHOOL: 200+HRS YOGA TEACHER TRAINING PROGRAM&nbsp;</p><p><br></p><p>WANT TO BECOME A YOGA TEACHER?&nbsp;</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Program Starts 3rd weekend in April and goes every other weekend for 10 weekends.&nbsp;</span><br></p><p>Friday evenings lecture and class, Saturdays and Sundays all day</p><p>7 guest teachers! Total investment: $2200 in full, $2700 in payments, $200 deposit with application.</p><p><br></p><p>Humble Yoga School YTT Program Core Values</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">---To provide you with a well rounded training program &nbsp;that makes you</span><br></p><p>&nbsp;feel confident in life and in teaching. &nbsp;</p><p>---To create a safe open environment so you can learn from one another and listen to ideas&nbsp;</p><p>without judgment or expectations.&nbsp;</p><p>---To give you the right tools to enrich your life and practice, making space for you</p><p>to grow your unique style of teaching, and help you understand why you want to teach.</p><p>---To be a support system for &nbsp;students, and provide the opportunity</p><p>for personal growth.&nbsp;</p><p><br></p><p>\"I am very honored and grateful to share this journey with you, and help you tap into the innate gifts that make you and your teaching unique.  Yoga is more than asana, its learning to wholeheartedly love yourself, and I hope that after this training you feel like you can carry yoga into all aspects of your life, living with a sense of ease and confidence that you are doing exactly what you're are supposed to do. &nbsp;Namaste friend\" ~ Jen Mainelli</p><p>“The greatest trap in life is not success, but self rejection”&nbsp;</p><p>Henri Nouwen.</p><p><br></p><p>Stay tuned to our Facebook page for informational sessions coming up early Spring.</p><p>or feel free to contact us at athensyoganews@gmail.com anytime with questions!</p><p>.&nbsp;</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/abi-wright-pic-1-2000x1334.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "SMALL": {
-              "color": "#553982",
-              "font-size": "24px"
-            }
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2q",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#c1c1c1",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": "\"I recently graduated from Humble Yoga Teacher Training with Jenn and cannot say enough<br>positive things about this training. I had looked at several training opportunities, but the<br>philosophy, curriculum, workshops, and Jen’s personality and teaching style made me resolutely<br>choose Humble Yoga School. I am ever so grateful that I did! The depth of understanding and the holistic<br>nature of the training are more than I could have hoped for.\"<br>-Kristin Dixon Chamberlain YTT grad 2018"
+          "title": "FOUNDATIONS OF ASHTANGA YOGA<br>with Abi Lynne",
+          "caption": "<p>----Ashtanga Foundations - In this workshop Abi will introduce the Ashtanga Yoga practice and history as taught by Pattahbi Jois, talk about the benefits and method of Ashtanga, and work through some of the signature movements and poses though the lens of the Tristana Method (breath, asana and pranayama).&nbsp;</p><p>--- Primary Series Breakdown: In this workshop we will move through the poses of the Primary Series of Ashtanga Yoga. We will break down the elements of each pose (through Half-Primary), go over alignment, adjustments, and some tips for working the poses on your own, and talk about how each pose builds on each other and prepares you for what's to come. Prepare to move!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ABOUT: Abi Lynne Wright (E-RYT 200) is an Ashtanga Yoga teacher based out of Columbus, Ohio where she studies closely with Authorized Level II teacher, Taylor Hunt at Ashtanga Yoga Columbus. &nbsp;Although she always balked at rules and structure, the method of Ashtanga Yoga provided a way for her to tune inward to find healing each morning. &nbsp;She is passionate about the practice of Ashtanga Yoga, and believes is much more than just a series of poses to work through, it also provides a lifestyle that supports the whole person. As a teacher, she is passionate about sharing the practice in an approachable way that can work for each student. She also enjoys the platform of social media to reach those who otherwise wouldn't have access to teachers. Check her out and say hello on instagram @abilynneyoga&nbsp;</span></p><p>WHEN: APRIL 27TH &nbsp;AND MAY 4TH , 5-6PM</p><p>INVESTMENT: $40 FOR A SINGLE AND $70 FOR BOTH</p><p>TO SIGN UP CONTACT ATHENS YOGA AT athensyoganews@gmail.com</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -487,34 +476,6 @@
           },
           "title": "Just a reminder all STUDIO classes are $10 drop in ONLY<br>No preregistration is required<br>&amp; we have mats to borrow in case you need, bringing your own is highly encouraged.<br>Talk to your teacher about their 5 and 10 class passes!<br>5class for $40 and 10class for $80<br>",
           "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-2p",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#25909e",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/newoctoberschay2018-2-1400x933.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
